@@ -19,5 +19,15 @@ And many others! All will be addressed when I began the follow up project to thi
 
 
 
+## Steps involved (Will flesh out at later date)
+1. Setting up Docker
+
+2. Setting up Airflow scripts, Postgress and DAG
+
+3. Running Docker from CLI
+
+4. Working in Airflow UI on port 8080
+
+## Final view of DAG running well
 
 <img width="1502" alt="Screenshot 2024-03-03 at 7 30 20 PM" src="https://github.com/Nathanialc25/Spotify_ETL/assets/78894588/9fea4b6f-8db2-43a6-96a2-8f7f361951b4">
