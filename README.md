@@ -1,4 +1,4 @@
-# Data Engineering Project 1 03.03.2024 - Spotify ELT pipeline
+# Data Engineering Project-1 | 03.03.2024 | Spotify ELT pipeline
 
 ## Brief Description
  The idea of this project is to combine Data Engineering practices with one of my passions, Music.
